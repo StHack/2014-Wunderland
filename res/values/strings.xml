@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"  translatable="false">WunderLand</string>
+    <string name="action_settings"  translatable="false">Settings</string>
+    <string name="hello_world"  translatable="false">Hello world!</string>
+    <string name="title_activity_gates"  translatable="false">Gates</string>
+    <string name="no_panic"  translatable="false">Do not push Me.</string>
+
+</resources>
